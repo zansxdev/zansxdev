@@ -37,8 +37,16 @@ Based in Indonesia, specializing in building modern web applications, high-perfo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,react,nextjs,html,css,tailwind,vite,express,mongodb,mysql,git,github,linux,bash,docker,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,dart,flutter,react,nextjs,html,css,tailwind,vite,express,sqlite,mysql,git,github,linux,bash,docker,nginx,vscode" alt="Tech Stack" />
   </a>
+</p>
+
+---
+
+### Core Competencies & Proficiency
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills-bar.svg" alt="Core Competencies & Proficiency" />
 </p>
 
 ---

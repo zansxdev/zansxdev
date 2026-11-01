@@ -1,0 +1,93 @@
+<svg width="840" height="315" viewBox="0 0 840 315" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cyan-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077b6" />
+      <stop offset="50%" stop-color="#00b4d8" />
+      <stop offset="100%" stop-color="#00f7ff" />
+    </linearGradient>
+    <linearGradient id="card-border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#30363d" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <style>
+      .label { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 600; fill: #e6edf3; }
+      .percent { font-family: 'Fira Code', 'SF Mono', Consolas, monospace; font-size: 13px; font-weight: 700; fill: #00f7ff; }
+      .track { fill: #21262d; rx: 4px; }
+      .fill { fill: url(#cyan-grad); rx: 4px; }
+      .dot { fill: #00f7ff; }
+    </style>
+  </defs>
+
+  <!-- Background Card -->
+  <rect width="840" height="315" rx="12" fill="#0d1117" stroke="url(#card-border)" stroke-width="1" />
+
+  <!-- Skill: WhatsApp &amp; Telegram Bot Ecosystem -->
+  <circle cx="35" cy="36" r="3.5" class="dot" />
+  <text x="46" y="40" class="label">WhatsApp &amp; Telegram Bot Ecosystem</text>
+  <text x="400" y="40" class="percent" text-anchor="end">98%</text>
+  <rect x="30" y="49" width="370" height="8" class="track" />
+  <rect x="30" y="49" width="362.6" height="8" class="fill" />
+
+  <!-- Skill: Backend Architecture (Node.js &amp; Fastify) -->
+  <circle cx="35" cy="88" r="3.5" class="dot" />
+  <text x="46" y="92" class="label">Backend Architecture (Node.js &amp; Fastify)</text>
+  <text x="400" y="92" class="percent" text-anchor="end">95%</text>
+  <rect x="30" y="101" width="370" height="8" class="track" />
+  <rect x="30" y="101" width="351.5" height="8" class="fill" />
+
+  <!-- Skill: Linux Server Administration &amp; DevOps -->
+  <circle cx="35" cy="140" r="3.5" class="dot" />
+  <text x="46" y="144" class="label">Linux Server Administration &amp; DevOps</text>
+  <text x="400" y="144" class="percent" text-anchor="end">92%</text>
+  <rect x="30" y="153" width="370" height="8" class="track" />
+  <rect x="30" y="153" width="340.4" height="8" class="fill" />
+
+  <!-- Skill: Docker &amp; Micro-Virtualization -->
+  <circle cx="35" cy="192" r="3.5" class="dot" />
+  <text x="46" y="196" class="label">Docker &amp; Micro-Virtualization</text>
+  <text x="400" y="196" class="percent" text-anchor="end">88%</text>
+  <rect x="30" y="205" width="370" height="8" class="track" />
+  <rect x="30" y="205" width="325.6" height="8" class="fill" />
+
+  <!-- Skill: AI Engineering &amp; LLM Automation -->
+  <circle cx="35" cy="244" r="3.5" class="dot" />
+  <text x="46" y="248" class="label">AI Engineering &amp; LLM Automation</text>
+  <text x="400" y="248" class="percent" text-anchor="end">86%</text>
+  <rect x="30" y="257" width="370" height="8" class="track" />
+  <rect x="30" y="257" width="318.2" height="8" class="fill" />
+
+  <!-- Skill: Creative Suite &amp; Motion Design (VFX) -->
+  <circle cx="445" cy="36" r="3.5" class="dot" />
+  <text x="456" y="40" class="label">Creative Suite &amp; Motion Design (VFX)</text>
+  <text x="810" y="40" class="percent" text-anchor="end">92%</text>
+  <rect x="440" y="49" width="370" height="8" class="track" />
+  <rect x="440" y="49" width="340.4" height="8" class="fill" />
+
+  <!-- Skill: Full-Stack Web (Next.js &amp; TypeScript) -->
+  <circle cx="445" cy="88" r="3.5" class="dot" />
+  <text x="456" y="92" class="label">Full-Stack Web (Next.js &amp; TypeScript)</text>
+  <text x="810" y="92" class="percent" text-anchor="end">88%</text>
+  <rect x="440" y="101" width="370" height="8" class="track" />
+  <rect x="440" y="101" width="325.6" height="8" class="fill" />
+
+  <!-- Skill: Database Systems (SQLite &amp; MySQL) -->
+  <circle cx="445" cy="140" r="3.5" class="dot" />
+  <text x="456" y="144" class="label">Database Systems (SQLite &amp; MySQL)</text>
+  <text x="810" y="144" class="percent" text-anchor="end">86%</text>
+  <rect x="440" y="153" width="370" height="8" class="track" />
+  <rect x="440" y="153" width="318.2" height="8" class="fill" />
+
+  <!-- Skill: Mobile App Development (Flutter) -->
+  <circle cx="445" cy="192" r="3.5" class="dot" />
+  <text x="456" y="196" class="label">Mobile App Development (Flutter)</text>
+  <text x="810" y="196" class="percent" text-anchor="end">82%</text>
+  <rect x="440" y="205" width="370" height="8" class="track" />
+  <rect x="440" y="205" width="303.4" height="8" class="fill" />
+
+  <!-- Skill: Python Scripting &amp; Network Tools -->
+  <circle cx="445" cy="244" r="3.5" class="dot" />
+  <text x="456" y="248" class="label">Python Scripting &amp; Network Tools</text>
+  <text x="810" y="248" class="percent" text-anchor="end">80%</text>
+  <rect x="440" y="257" width="370" height="8" class="track" />
+  <rect x="440" y="257" width="296.0" height="8" class="fill" />
+</svg>
