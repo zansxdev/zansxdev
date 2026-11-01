@@ -1,28 +1,27 @@
-<div align="center">
+<img align="left" width="185" hspace="20" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
 
-  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" width="160" alt="Yuta Okkotsu" />
+<a href="https://github.com/zansxdev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F7FF&vCenter=true&width=450&lines=Izar%20Agustian%20%28zansxdev%29;Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Video%20Editor%20%26%20Motion%20Designer" alt="Typing SVG" />
+</a>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/zansxdev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Izar%20Agustian%20%28zansxdev%29;Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Video%20Editor%20%26%20Motion%20Designer" alt="Typing SVG" />
-  </a>
+**Izar Agustian** (`zansxdev`)  
+*Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
 
-  <br/><br/>
+Full-Stack Developer & Multimedia Designer based in Indonesia. Specializing in high-concurrency bot engines, high-performance Fastify backend APIs, Linux server infrastructure, and cinematic digital multimedia design.
 
-  ### Izar Agustian (`zansxdev`)
-  *Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
+- **Web & Backend**: Modern web apps, Fastify REST APIs, SQLite & MySQL database architecture
+- **Bot Automation**: Production-ready WhatsApp & Telegram bot engines, webhook listeners, background workers
+- **Artificial Intelligence**: Integrating smart LLM reasoning, conversational agents, automated AI pipelines
+- **Creative & Motion**: Professional video editing, motion design, visual effects (VFX), color grading
+- **Contact**: [zansxart@gmail.com](mailto:zansxart@gmail.com)
 
-  <p align="center">
-    Full-Stack Developer &amp; Multimedia Designer based in Indonesia.<br/>
-    Specializing in high-concurrency bot engines, high-performance Fastify backend APIs, Linux server infrastructure, and cinematic digital motion design.
-  </p>
+<br/>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
-  </p>
+<img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
 
-</div>
+<br clear="both"/>
 
 ---
 
@@ -44,10 +43,10 @@
 
 ---
 
-### Core Competencies &amp; Proficiency
+### Core Competencies & Proficiency
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills-bar.svg" alt="Core Competencies &amp; Proficiency" />
+  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills-bar.svg" alt="Core Competencies & Proficiency" />
 </p>
 
 ---
@@ -68,9 +67,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zansxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=zansxdev&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-  <br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zansxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
