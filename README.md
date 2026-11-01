@@ -1,15 +1,20 @@
 <img align="left" width="220" hspace="20" src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
 
 <a href="https://github.com/zansxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Izar+Agustian+(zansxdev);Full-Stack+Web+%26+Bot+Developer;Video+Editor+%26+Motion+Designer;Crafting+Code+%26+Visual+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F7FF&vCenter=true&width=550&lines=Izar%20Agustian%20%28zansxdev%29;Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp/Telegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Video%20Editor%20%26%20Motion%20Designer" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-**Izar Agustian** (`zansxdev`) is a Full-Stack Developer and Multimedia Designer based in Indonesia. Focused on developing automated bot systems, responsive web applications, and high-impact visual media.
+**Izar Agustian** (`zansxdev`)  
+*Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
 
-- **Development**: Web applications, WhatsApp & Telegram bots, backend automation, Linux tooling
-- **Creative Suite**: Video editing, motion graphics, visual effects, color grading, UI design
+Based in Indonesia, specializing in building modern web applications, high-performance automated bot ecosystems, and cinematic digital multimedia.
+
+- **Web Development**: Modern responsive web apps, REST APIs, database architecture, and backend systems
+- **Bot Automation**: Production-ready WhatsApp & Telegram bot engines, webhook listeners, and background tasks
+- **Artificial Intelligence**: Integrating smart LLM reasoning, conversational agents, and automated AI pipelines
+- **Creative & Motion**: Professional video editing, motion design, visual effects (VFX), color grading, and UI/UX
 - **Contact**: [zansxart@gmail.com](mailto:zansxart@gmail.com)
 
 <br/>
