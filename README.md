@@ -1,7 +1,10 @@
-<img align="left" width="165" hspace="15" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
+<img align="left" width="160" hspace="20" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
 
 ### イ<br/>ザ<br/>ル<br/>・<br/>ア<br/>グ<br/>ス<br/>テ<br/>ィ<br/>ア<br/>ン
-<a href="https://github.com/zansxdev"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=24&pause=1000&color=F0F6FC&vCenter=true&width=550&height=44&lines=Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Fastify%20APIs%20%26%20Linux%20DevOps;Motion%20Designer%20%26%20VFX" alt="Typing SVG" /></a>
+
+<br/>
+
+<a href="https://github.com/zansxdev"><img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=700&size=22&pause=1000&color=F0F6FC&vCenter=true&width=520&height=50&lines=%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96%E3%83%BB%E3%83%95%E3%83%AB%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF%E9%96%8B%E7%99%BA%E8%80%85;Web%20%EF%BC%86%20Bot%E8%87%AA%E5%8B%95%E5%8C%96%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;AI%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3;Fastify%20API%20%EF%BC%86%20Linux%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9;%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%82%B9%20%EF%BC%86%20VFX" alt="Typing SVG" /></a>
 
 *Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
 
