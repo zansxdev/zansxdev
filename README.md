@@ -1,7 +1,8 @@
-<img align="left" width="185" hspace="20" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
+<img align="left" width="185" hspace="32" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
 
 ### イ<br/>ザ<br/>ル<br/>・<br/>ア<br/>グ<br/>ス<br/>テ<br/>ィ<br/>ア<br/>ン
-<a href="https://github.com/zansxdev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=00F7FF&vCenter=true&width=450&height=28&lines=Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Fastify%20APIs%20%26%20Linux%20DevOps;Motion%20Designer%20%26%20VFX" alt="Typing SVG" /></a>
+
+<a href="https://github.com/zansxdev"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=20&pause=1000&color=F0F6FC&vCenter=true&width=490&height=36&letterSpacing=0.5px&lines=Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Fastify%20APIs%20%26%20Linux%20DevOps;Motion%20Designer%20%26%20VFX" alt="Typing SVG" /></a>
 
 *Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
 
