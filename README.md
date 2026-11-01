@@ -1,65 +1,38 @@
 <div align="center">
 
-<!-- Landscape Anime Banner (Gojo Satoru Cyberpunk Aesthetic) -->
-<img src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/banner.gif" width="100%" alt="Anime Landscape Banner" />
+<img src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/banner.gif" width="100%" alt="Banner" />
 
-<!-- Typing Animation -->
+<br/><br/>
+
 <a href="https://github.com/zansxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Izar+Agustian+(zansxdev)+%F0%9F%91%8B;Full-Stack+Web+%26+Bot+Automation+Developer+%F0%9F%92%BB;Creative+Video+%26+Motion+Graphic+Designer+%F0%9F%8E%AC;Turning+Logic+into+Code%2C+Vision+into+Art+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Izar+Agustian+(zansxdev);Full-Stack+Web+%26+Bot+Developer;Video+Editor+%26+Motion+Designer;Crafting+Code+%26+Visual+Experiences" alt="Typing SVG" />
 </a>
 
-<!-- Profile View Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zansxdev&label=PROFILE+VIEWS&color=00f7ff&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-00f7ff?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-1f2937?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
 </p>
 
-<!-- Cyberpunk Divider GIF -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 </div>
 
-### 💫 About Me
+---
 
-```javascript
-const izar = {
-  name: "Izar Agustian",
-  username: "zansxdev",
-  role: "Full-Stack Developer • Video & Motion Designer",
-  location: "Indonesia 🇮🇩",
-  passions: [
-    "Modern Web Applications",
-    "Telegram & WhatsApp Bot Automations",
-    "Cinematic Video Editing & Motion Graphics",
-    "AI Tools & Workflow Integration"
-  ],
-  creativeArsenal: [
-    "Premiere Pro", "After Effects", "Photoshop", "Illustrator",
-    "CapCut", "Alight Motion", "Figma", "Blender", "Canva"
-  ],
-  techStack: ["JavaScript", "TypeScript", "Node.js", "Python", "React", "Linux"],
-  currentFocus: "Architecting high-performance bots & creative digital experiences",
-  motto: "Crafting code with logic, shaping visual art with passion."
-};
-```
+### About
 
-- 🔭 **What I Do**: Building modern web applications, custom automated bots, and high-impact visual media.
-- 🎬 **Creative Arsenal**: Passionate about motion graphics, visual effects (VFX), color grading, and video editing.
-- ⚡ **Superpower**: Seamlessly connecting logic-driven engineering with stunning visual aesthetics.
-- 📫 **Reach Out**: Let's connect at **[zansxart@gmail.com](mailto:zansxart@gmail.com)**.
+**Izar Agustian** (`zansxdev`) is a Full-Stack Developer and Multimedia Designer based in Indonesia. Focused on developing automated bot systems, responsive web applications, and high-impact visual media.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+- **Development**: Web applications, WhatsApp & Telegram bots, backend automation, Linux tooling
+- **Creative Suite**: Video editing, motion graphics, visual effects, color grading, UI design
+- **Contact**: [zansxart@gmail.com](mailto:zansxart@gmail.com)
 
-### 🎬 Creative & Video Editing Arsenal
+---
+
+### Creative Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" alt="After Effects" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   <img src="https://img.shields.io/badge/Alight%20Motion-00D26A?style=for-the-badge&logo=alight-motion&logoColor=white" alt="Alight Motion" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -67,7 +40,9 @@ const izar = {
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
 
-### 💻 Development & Programming Stack
+---
+
+### Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -75,11 +50,9 @@ const izar = {
   </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-### 🐍 GitHub Contribution Snake
+### Contribution Graph
 
 <div align="center">
   <picture>
@@ -89,24 +62,24 @@ const izar = {
   </picture>
 </div>
 
-<br/>
+---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zansxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=zansxdev&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zansxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
+---
 
-### 🌐 Connect With Me
+### Connect
 
 <p align="center">
   <a href="mailto:zansxart@gmail.com">
