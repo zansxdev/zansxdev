@@ -46,7 +46,7 @@ Full-Stack Developer & Multimedia Designer based in Indonesia. Specializing in h
 ### Core Competencies & Proficiency
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills.svg" alt="Core Competencies & Proficiency" />
+  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@9249f68/assets/skills.svg" alt="Core Competencies & Proficiency" />
 </p>
 
 ---
