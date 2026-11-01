@@ -1,4 +1,4 @@
-<img align="left" width="300" hspace="20" src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/yuta.jpg" alt="Yuta Okkotsu" />
+<img align="left" width="220" hspace="20" src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/yuta.jpg" alt="Yuta Okkotsu" />
 
 <a href="https://github.com/zansxdev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Izar+Agustian+(zansxdev);Full-Stack+Web+%26+Bot+Developer;Video+Editor+%26+Motion+Designer;Crafting+Code+%26+Visual+Experiences" alt="Typing SVG" />
