@@ -1,28 +1,22 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/banner.gif" width="100%" alt="Banner" />
-
-<br/><br/>
+<img align="left" width="300" hspace="20" src="https://raw.githubusercontent.com/zansxdev/zansxdev/main/assets/yuta.jpg" alt="Yuta Okkotsu" />
 
 <a href="https://github.com/zansxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Izar+Agustian+(zansxdev);Full-Stack+Web+%26+Bot+Developer;Video+Editor+%26+Motion+Designer;Crafting+Code+%26+Visual+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Izar+Agustian+(zansxdev);Full-Stack+Web+%26+Bot+Developer;Video+Editor+%26+Motion+Designer;Crafting+Code+%26+Visual+Experiences" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
-</p>
-
-</div>
-
----
-
-### About
+<br/><br/>
 
 **Izar Agustian** (`zansxdev`) is a Full-Stack Developer and Multimedia Designer based in Indonesia. Focused on developing automated bot systems, responsive web applications, and high-impact visual media.
 
 - **Development**: Web applications, WhatsApp & Telegram bots, backend automation, Linux tooling
 - **Creative Suite**: Video editing, motion graphics, visual effects, color grading, UI design
 - **Contact**: [zansxart@gmail.com](mailto:zansxart@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
+
+<br clear="both"/>
 
 ---
 
