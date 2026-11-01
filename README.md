@@ -1,27 +1,28 @@
-<img align="left" width="220" hspace="20" src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" alt="Yuta Okkotsu" />
+<div align="center">
 
-<a href="https://github.com/zansxdev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F7FF&vCenter=true&width=550&lines=Izar%20Agustian%20%28zansxdev%29;Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp/Telegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Video%20Editor%20%26%20Motion%20Designer" alt="Typing SVG" />
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/yuta-manga.jpg" width="160" alt="Yuta Okkotsu" />
 
-<br/><br/>
+  <br/><br/>
 
-**Izar Agustian** (`zansxdev`)  
-*Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
+  <a href="https://github.com/zansxdev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=460&lines=Izar%20Agustian%20%28zansxdev%29;Digital%20Creative%20Full-Stack%20Developer;Web%20%26%20WhatsApp%2FTelegram%20Bots;Smart%20Automation%20With%20a%20Touch%20of%20AI;Video%20Editor%20%26%20Motion%20Designer" alt="Typing SVG" />
+  </a>
 
-Based in Indonesia, specializing in building modern web applications, high-performance automated bot ecosystems, and cinematic digital multimedia.
+  <br/><br/>
 
-- **Web Development**: Modern responsive web apps, REST APIs, database architecture, and backend systems
-- **Bot Automation**: Production-ready WhatsApp & Telegram bot engines, webhook listeners, and background tasks
-- **Artificial Intelligence**: Integrating smart LLM reasoning, conversational agents, and automated AI pipelines
-- **Creative & Motion**: Professional video editing, motion design, visual effects (VFX), color grading, and UI/UX
-- **Contact**: [zansxart@gmail.com](mailto:zansxart@gmail.com)
+  ### Izar Agustian (`zansxdev`)
+  *Digital Creative Full-Stack Developer | Web & WhatsApp/Telegram Bots — With a Touch of AI.*
 
-<br/>
+  <p align="center">
+    Full-Stack Developer &amp; Multimedia Designer based in Indonesia.<br/>
+    Specializing in high-concurrency bot engines, high-performance Fastify backend APIs, Linux server infrastructure, and cinematic digital motion design.
+  </p>
 
-<img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=zansxdev&label=Profile%20Views&color=00f7ff&style=flat-square" alt="Profile Views" />
+  </p>
 
-<br clear="both"/>
+</div>
 
 ---
 
@@ -37,16 +38,16 @@ Based in Indonesia, specializing in building modern web applications, high-perfo
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,dart,flutter,react,nextjs,html,css,tailwind,vite,express,sqlite,mysql,git,github,linux,bash,docker,nginx,vscode" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,dart,flutter,react,nextjs,html,css,tailwind,vite,express,sqlite,mysql,git,github,linux,bash,docker,nginx,vscode&perline=8" alt="Tech Stack" />
   </a>
 </p>
 
 ---
 
-### Core Competencies & Proficiency
+### Core Competencies &amp; Proficiency
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills-bar.svg" alt="Core Competencies & Proficiency" />
+  <img src="https://cdn.jsdelivr.net/gh/zansxdev/zansxdev@main/assets/skills-bar.svg" alt="Core Competencies &amp; Proficiency" />
 </p>
 
 ---
@@ -67,12 +68,9 @@ Based in Indonesia, specializing in building modern web applications, high-perfo
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zansxdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=zansxdev&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zansxdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
